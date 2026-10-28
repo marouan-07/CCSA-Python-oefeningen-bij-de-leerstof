@@ -32,7 +32,7 @@ Bv. wanneer de volgende rij wordt gegeven als invoer van het programma:
 ```
 dan is de uitvoer
 ```
-[6, 44, 55, 12, 42, 94, 18, 67]
+[6, 44, 55, 12, 42, 94, 18, 67] 
 [6, 12, 44, 55, 18, 42, 94, 67]
 [6, 12, 18, 44, 55, 42, 67, 94]
 [6, 12, 18, 42, 44, 55, 67, 94]
